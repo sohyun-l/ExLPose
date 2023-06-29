@@ -6,7 +6,7 @@ This repo is the official implementation of [**CVPR 2023**] paper: "[Human Pose 
 > [Human Pose Estimation in Extremely Low-light Conditions]([https://arxiv.org/abs/2204.01587](https://arxiv.org/abs/2303.15410))     
 > [Sohyun Lee](https://sohyun-l.github.io)<sup>1*</sup>, Jaesung Rim<sup>1*</sup>, Boseung Jeong<sup>1</sup>, Geonu Kim<sup>1</sup>, Byungju Woo, Haechan Lee<sup>1</sup>, [Sunghyun Cho](https://www.scho.pe.kr/)<sup>1</sup>, [Suha Kwak](http://cvlab.postech.ac.kr/~suhakwak/)<sup>1</sup>\
 > POSTECH<sup>1</sup> \
-> accept to CVPR 2023
+> CVPR 2023
 
 
 ## Dataset

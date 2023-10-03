@@ -45,7 +45,11 @@ This repository is developed and tested on
 ~/ExLPose$ conda env create --file exlpose.yaml
 ~/ExLPose$ conda activate exlpose.yaml
 ```
-
+## Training
+```bash
+(exlpose) ~/ExLPose$ cd pytorch-cpn/256.192.model
+(exlpose) ~/ExLPose/pytorch-cpn/256.192.model$ python train.py
+```
 ## Our Model
 BEST_MODEL_PATH = '[./Final_model.pth.tar](https://drive.google.com/file/d/1kB9gypMxhnC2NIDk5InhrbTIIBdC9gdu/view?usp=sharing)'
 

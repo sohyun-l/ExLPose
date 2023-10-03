@@ -46,3 +46,7 @@ This repository is developed and tested on
 ~/ExLPose$ conda activate exlpose.yaml
 ```
 
+## Our Model
+BEST_MODEL_PATH = '[./Final_model.pth.tar](https://drive.google.com/file/d/1kB9gypMxhnC2NIDk5InhrbTIIBdC9gdu/view?usp=sharing)'
+
+
